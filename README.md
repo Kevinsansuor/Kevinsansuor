@@ -1,10 +1,10 @@
 ![MasterHead](https://github.com/Kevinsansuor/Kevinsansuor/blob/main/banner.png)
 ## Biografía
 
-<h3 align="left">Lenguajes de programación:</h3>
+## Lenguajes de programación
 <p>Algunas herramientas y lenguajes de programación que me gustan</p>
 
-<h4 aling="center">Frontend</h4>
+<p aling="center"><h4>Frontend</h4></p>
 <p align="center"> <a href="#" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="REACT" width="40" height="40"/></a> 
  <a href="#" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="REACT" width="40" height="40"/></a> 
  <a href="#" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="REACT" width="40" height="40"/></a> 
