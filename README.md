@@ -4,6 +4,7 @@
 <h3 align="left">Lenguajes de programación:</h3>
 <p>Algunas herramientas y lenguajes de programación que me gustan</p>
 <hr>
+<h4>Frontend</h4>
 <p align="center"> <a href="#" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="REACT" width="40" height="40"/></a> 
  <a href="#" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="REACT" width="40" height="40"/></a> 
  <a href="#" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="REACT" width="40" height="40"/></a> 
