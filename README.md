@@ -1,15 +1,23 @@
 ![MasterHead](https://github.com/Kevinsansuor/Kevinsansuor/blob/main/banner.png)
-## Biografía
 
-## Lenguajes de programación
-<p>Algunas herramientas y lenguajes de programación que me gustan</p>
+# Biografía
+Soy Kevin Santiago, Ingeniero de Sistemas y desarrollador de software con experiencia Full-Stack nivel junior. Me gusta crear soluciones creativas y prescindibles que resuelvan problemas reales. Me interesa la lectura variada, escritura reflectiva, la música J-Pop y el séptimo arte. Me veo como alguien tranquilo, creativo y con destreza para colaborar en equipo.
 
-<p aling="center">Frontend</p>
+
+# Lenguajes de programación
+## Frontend
 <p align="center"> <a href="#" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="REACT" width="40" height="40"/></a> 
  <a href="#" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="REACT" width="40" height="40"/></a> 
  <a href="#" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="REACT" width="40" height="40"/></a> 
  <a href="#" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="REACT" width="40" height="40"/></a> 
 </p>
+## Backend
+## Mobile
+
+# Herramientas
+
+## Biografía
+
 
 
 <!--
