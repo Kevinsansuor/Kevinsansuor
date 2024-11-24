@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/Kevinsansuor/Kevinsansuor/blob/main/banner.png)(https://github/Kevinsansuor)
+![MasterHead](https://github.com/Kevinsansuor/Kevinsansuor/blob/main/banner.png)
 ## Hi there 👋
 
 <!--
