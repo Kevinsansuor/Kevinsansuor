@@ -7,13 +7,19 @@
 
 ###
 
-<br clear="both">
-
-<h4 align="right">Música favorita</h4>
+<div align="center">
+  <img height="415" src="https://media.giphy.com/media/3oKIPipgrovqOodyYo/giphy.gif?cid=ecf05e47g3dcyfaentffrbzy8su8n0jjsh3vekmo3oyn12ge&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+</div>
 
 ###
 
-<div align="right">
+<br clear="both">
+
+<h4 align="left">Música favorita</h4>
+
+###
+
+<div align="left">
   <a href="https://open.spotify.com/user/22tdsnzexi5eor2d4eyrdh4zy">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=22tdsnzexi5eor2d4eyrdh4zy&count=3&unique=true" alt="Spotify recently played"  />
   </a>
@@ -23,7 +29,7 @@
 
 <br clear="both">
 
-<h4 align="center">Lenguajes</h4>
+<h4 align="left">Lenguajes</h4>
 
 ###
 
@@ -78,19 +84,3 @@
 <p align="left">🎓 Ingeniero de Sistemas<br>💻 Software Developer<br>🖊️ Diseñador grafico <br>🐶 Padre de Lulú<br>🌱 Semillero de investigación de GSE<br>🎹 Pianista<br>🚵 Ciclista<br>🌎 Ambientalista</p>
 
 ###
-
-
-<!--
-**Kevinsansuor/Kevinsansuor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
