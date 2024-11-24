@@ -3,7 +3,7 @@
 
 <h3 align="left">Lenguajes de programación:</h3>
 <hr>
-<p align="left"> <a href="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="REACT" width="40" height="40"/> React </a> </p>
+<p align="left"> <a href="#" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="REACT" width="40" height="40"/> React </a> </p>
 
 
 <!--
