@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/Kevinsansuor/Kevinsansuor/blob/main/banner.png)
 <br>
-<h2 align="center">Bienvenid@ a mi Github</h2>
+<h2 align="center">Welcome </h2>
 
 ###
 
@@ -9,7 +9,7 @@
 ###
 
 <div align="center">
-  <img height="415" src="https://media.giphy.com/media/3oKIPipgrovqOodyYo/giphy.gif?cid=ecf05e47g3dcyfaentffrbzy8su8n0jjsh3vekmo3oyn12ge&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+  <img height="250" src="https://media.giphy.com/media/3oKIPipgrovqOodyYo/giphy.gif?cid=ecf05e47g3dcyfaentffrbzy8su8n0jjsh3vekmo3oyn12ge&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 </div>
 
 ###
