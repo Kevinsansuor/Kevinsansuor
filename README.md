@@ -1,5 +1,4 @@
 ![MasterHead](https://github.com/Kevinsansuor/Kevinsansuor/blob/main/banner.png)
-
 <h2 align="center">Bienvenid@ a mi Github</h2>
 
 ###
@@ -8,25 +7,23 @@
 
 ###
 
-<div align="center">
+<br clear="both">
+
+<h4 align="right">Música favorita</h4>
+
+###
+
+<div align="right">
   <a href="https://open.spotify.com/user/22tdsnzexi5eor2d4eyrdh4zy">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=22tdsnzexi5eor2d4eyrdh4zy&count=1" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=22tdsnzexi5eor2d4eyrdh4zy&count=3&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
 
 ###
 
-<h2 align="right">Sobre mí</h2>
-
-###
-
-<p align="right">🎓 Ingeniero de Sistemas<br>💻 Software Developer<br>🐶 Padre de Lulú<br>🌱 Semillero de investigación de GSE</p>
-
-###
-
 <br clear="both">
 
-<h2 align="center">Lenguajes</h2>
+<h4 align="center">Lenguajes</h4>
 
 ###
 
@@ -69,6 +66,16 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
+
+###
+
+<br clear="both">
+
+<h4 align="left">Más sobre mi</h4>
+
+###
+
+<p align="left">🎓 Ingeniero de Sistemas<br>💻 Software Developer<br>🖊️ Diseñador grafico <br>🐶 Padre de Lulú<br>🌱 Semillero de investigación de GSE<br>🎹 Pianista<br>🚵 Ciclista<br>🌎 Ambientalista</p>
 
 ###
 
