@@ -1,4 +1,5 @@
 ![MasterHead](https://github.com/Kevinsansuor/Kevinsansuor/blob/main/banner.png)
+<br>
 <h2 align="center">Bienvenid@ a mi Github</h2>
 
 ###
@@ -15,21 +16,7 @@
 
 <br clear="both">
 
-<h4 align="left">Música favorita</h4>
-
-###
-
-<div align="left">
-  <a href="https://open.spotify.com/user/22tdsnzexi5eor2d4eyrdh4zy">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=22tdsnzexi5eor2d4eyrdh4zy&count=3&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<h4 align="left">Lenguajes</h4>
+<h4 align="center">Mis lenguajes favoritos</h4>
 
 ###
 
@@ -71,6 +58,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<h4 align="center">Lo que estoy escuchando</h4>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <a href="https://open.spotify.com/user/22tdsnzexi5eor2d4eyrdh4zy">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=22tdsnzexi5eor2d4eyrdh4zy&count=3&unique=true" alt="Spotify recently played"  />
+  </a>
 </div>
 
 ###
